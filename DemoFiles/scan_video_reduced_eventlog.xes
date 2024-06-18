@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="concept:name" value="1" />
+		<event>
+			<int key="videoID" value="1" />
+			<string key="activity" value="a" />
+			<string key="timestamp_start" value="23:5:28" />
+			<string key="concept:name" value="a" />
+			<string key="time:timestamp" value="23:5:28" />
+			<int key="@@index" value="0" />
+		</event>
+		<event>
+			<int key="videoID" value="1" />
+			<string key="activity" value="b" />
+			<string key="timestamp_start" value="23:5:34" />
+			<string key="concept:name" value="b" />
+			<string key="time:timestamp" value="23:5:34" />
+			<int key="@@index" value="1" />
+		</event>
+		<event>
+			<int key="videoID" value="1" />
+			<string key="activity" value="a" />
+			<string key="timestamp_start" value="23:5:40" />
+			<string key="concept:name" value="a" />
+			<string key="time:timestamp" value="23:5:40" />
+			<int key="@@index" value="2" />
+		</event>
+		<event>
+			<int key="videoID" value="1" />
+			<string key="activity" value="c" />
+			<string key="timestamp_start" value="23:5:44" />
+			<string key="concept:name" value="c" />
+			<string key="time:timestamp" value="23:5:44" />
+			<int key="@@index" value="3" />
+		</event>
+		<event>
+			<int key="videoID" value="1" />
+			<string key="activity" value="d" />
+			<string key="timestamp_start" value="23:5:50" />
+			<string key="concept:name" value="d" />
+			<string key="time:timestamp" value="23:5:50" />
+			<int key="@@index" value="4" />
+		</event>
+		<event>
+			<int key="videoID" value="1" />
+			<string key="activity" value="e" />
+			<string key="timestamp_start" value="23:5:54" />
+			<string key="concept:name" value="e" />
+			<string key="time:timestamp" value="23:5:54" />
+			<int key="@@index" value="5" />
+		</event>
+		<event>
+			<int key="videoID" value="1" />
+			<string key="activity" value="f" />
+			<string key="timestamp_start" value="23:5:59" />
+			<string key="concept:name" value="f" />
+			<string key="time:timestamp" value="23:5:59" />
+			<int key="@@index" value="6" />
+		</event>
+		<event>
+			<int key="videoID" value="1" />
+			<string key="activity" value="g" />
+			<string key="timestamp_start" value="23:6:17" />
+			<string key="concept:name" value="g" />
+			<string key="time:timestamp" value="23:6:17" />
+			<int key="@@index" value="7" />
+		</event>
+	</trace>
+</log>

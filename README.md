@@ -3,6 +3,8 @@
 The RAVEE project provides a general approach to extract process-mining-conform event logs from unstructured video data in an unsupervised manner.
 It targets custom datasets and is an implementation of the RAVEE reference architecture.
 
+![](demo_RAVEE/GUI.png)
+
 ## Dependencies
 
 The VideoProcessMining project uses several open source computer vision projects.

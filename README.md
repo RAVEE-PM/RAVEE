@@ -7,7 +7,7 @@ It targets custom datasets and is an implementation of the RAVEE reference archi
 
 ## Dependencies
 
-The VideoProcessMining project uses several open source computer vision projects.
+The RAVEE project uses several open source computer vision projects.
 
 - [TW-FINCH](https://github.com/ssarfraz/FINCH-Clustering/tree/master/TW-FINCH) ([License](https://github.com/ssarfraz/FINCH-Clustering/blob/master/LICENSE.txt)): For activity segmentation
 - [Dense improved trajectories](https://github.com/chuckcho/iDT/tree/master) ([License](https://github.com/chuckcho/iDT/blob/master/README.md)): For feature trajectory extraction

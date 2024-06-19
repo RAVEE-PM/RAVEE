@@ -22,8 +22,9 @@ The RAVEE project is released under the [GNU General Public License v3.0](LICENS
 ## Functionality
 
 The RAVEE project comprises a GUI that automates and facilitates several tasks:
-- Preprocessing of custom video datasets for activity recognition
+- Preprocessing of custom video datasets for activity segmentation
 - Segmentation of video files in activity steps at previously defined granularity
+- Labeling of activity steps to derive an event log
 - Extraction of process-mining-conform event logs from unstructured video data
 
 ## Installation

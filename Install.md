@@ -17,6 +17,7 @@ To be able to use the VideoProcessMining project, the requirements of the base p
 - torchvision
 - [TW-FINCH](https://github.com/ssarfraz/FINCH-Clustering/tree/master/TW-FINCH)
 - [IDT](https://github.com/chuckcho/iDT)
+- Docker
 
 ### TW-FINCH
 Please follow TW-FINCH official instruction from source [TW-FINCH](https://github.com/ssarfraz/FINCH-Clustering/blob/master/TW-FINCH/README.md)

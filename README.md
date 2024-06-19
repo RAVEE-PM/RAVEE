@@ -12,6 +12,7 @@ The VideoProcessMining project uses several open source computer vision projects
 - [TW-FINCH](https://github.com/ssarfraz/FINCH-Clustering/tree/master/TW-FINCH) ([License](https://github.com/ssarfraz/FINCH-Clustering/blob/master/LICENSE.txt)): For activity segmentation
 - [Dense improved trajectories](https://github.com/chuckcho/iDT/tree/master) ([License](https://github.com/chuckcho/iDT/blob/master/README.md)): For feature trajectory extraction
 - [PM4Py](https://github.com/pm4py/pm4py-core) ([License](https://github.com/pm4py/pm4py-core/blob/release/LICENSE)): For XES event log generation
+- [IKEA Dataset](https://ikeaasm.github.io/) ([License](https://ikeaasm.github.io/)): As examplary dataset for proof of concept
 
 
 ## License

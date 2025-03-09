@@ -1,7 +1,7 @@
 # RAVEE
 
 The RAVEE project provides a general approach to extract process-mining-conform event logs from unstructured video data in an unsupervised manner.
-It targets custom datasets and is an implementation of the RAVEE reference architecture. In [Supplementary_Material_SLR](Supplementary_Material_SLR.pdf) you can see how the RAVEE differs from other works at the intersection of video data and process mining. 
+It targets custom datasets and is an implementation of the RAVEE reference architecture. In [Supplementary_Material_SLR](Supplementary_Material_SLR.pdf) you can see how the RAVEE differs from other works at the intersection of video data and process mining. In [Supplementary_Material_EVAL2_and_4](Supplementary_Material_EVAL2_and_4.pdf) you can find experts' opinions on the design and the results of RAVEE.
 
 ![](demo_RAVEE/GUI.png)
 
